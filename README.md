@@ -1,4 +1,4 @@
-# My First Nest.js
+# My First Nest.js with Prisma and GraphQL
 ## Outline
-- Sansan株式会社で働く前の技術キャッチアップ
+
 
