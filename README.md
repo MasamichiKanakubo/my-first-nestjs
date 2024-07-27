@@ -11,7 +11,7 @@
 ### 1.setup your local branch
 ```bash
 git close https://github.com/MasamichiKanakubo/my-first-nestjs.git
-cd my-first nestjs
+cd my-first-nestjs
 ```
 
 ### 2.package install
