@@ -10,7 +10,7 @@ type Post {
 }
 
 type Query {
-  posts: [Post!]!
+  getPosts: [Post!]!
 }
 
 type Mutation {

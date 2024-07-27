@@ -7,7 +7,7 @@ export class PostResolver {
     constructor(private prisma: PrismaService) { }
     
     @Query(() => [Post])
-    async posts() {
+    async getPosts() {
         return this.prisma.post.findMany();
     }
 
