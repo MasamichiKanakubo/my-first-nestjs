@@ -1,4 +1,4 @@
-# My First Nest.js with Prisma and GraphQL
+# 2024/07/30 GraphQL勉強会
 ## Outline
 **Catchup Nestjs for Sansan Summer Internship**
 ## Tech-stack
